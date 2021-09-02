@@ -29,7 +29,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: nameTu
+        name: nameTuT
         label: Nombre
         default_value: Your name
         is_required: true
