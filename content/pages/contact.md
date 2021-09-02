@@ -31,7 +31,7 @@ sections:
       - input_type: text
         name: nameTuT
         label: Nombre
-        default_value: Your name
+        default_value: Su numbre
         is_required: true
       - input_type: email
         name: email
