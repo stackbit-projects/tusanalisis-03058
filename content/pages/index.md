@@ -64,7 +64,7 @@ sections:
     subtitle: Qué dicen nuestros clientes
     col_number: three
     testimonials:
-      - author: Desmond Eagle
+      - author: Pepe Gavilan
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A Company'
