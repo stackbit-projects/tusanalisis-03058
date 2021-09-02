@@ -45,7 +45,7 @@ sections:
         options:
           - Marca
           - Diseño
-          - Digital
+          - Análisis
       - input_type: textarea
         name: message
         label: Message
