@@ -53,14 +53,9 @@ sections:
           - Communication strategy
       - title: Diseño de marca
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Desarrollo de la marca
+          *   Nombre de la marca
       - title: Analisis informático
         image: images/service-3.svg
         content: |
