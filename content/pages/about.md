@@ -80,7 +80,7 @@ sections:
             new_window: true
       - title: Brandon Guidelines
         image: images/team-5.png
-        subtitle: Graphic Designer
+        subtitle: Creador Directivo
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
           eget.
