@@ -93,11 +93,10 @@ sections:
   - type: cta_section
     section_id: cta
     title: Conviértete en un jugador de equipo
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+    content: >
+      Siempre buscamos grandes personas para unirse a nuestro equipo. Si está
+      interesado en trabajar para Agency, envíe un correo electrónico a
+      [email@example.com](/#) con su CV y el puesto que le interesa.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
