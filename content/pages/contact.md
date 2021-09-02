@@ -41,7 +41,7 @@ sections:
       - input_type: select
         name: subject
         label: Que servicios estas buscando?
-        default_value: Please select
+        default_value: Por favor seleccione
         options:
           - Marca
           - Diseño
