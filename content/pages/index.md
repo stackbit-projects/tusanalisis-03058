@@ -82,12 +82,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: Trabajémos juntos
-    content: >+
-      Say hello at <email@example.com> or tell us more about your project by
-      getting started below.
-
-
-
+    content: >
+      Salúdanos a través de  <email@example.com> o cuentanos mas sobre mas sobre
+      tu propuesta.
     actions:
       - label: Let's start
         url: /contact
