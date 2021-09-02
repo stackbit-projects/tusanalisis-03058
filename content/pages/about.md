@@ -17,7 +17,7 @@ sections:
   - type: grid_section
     section_id: team
     title: El equipo
-    subtitle: An optional subtitle of the section
+    subtitle: Estos son nuestros mas grandes colaboradores
     col_number: three
     grid_items:
       - title: Gustav Purpleson
