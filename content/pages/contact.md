@@ -17,14 +17,13 @@ sections:
       una calle.
       boqueron, CA 12345
       021 123456 0971123456
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+
 
       ### Asunción PY
 
       una calle.
       asuncion, CA 12345
       021 123456 0971123456
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
