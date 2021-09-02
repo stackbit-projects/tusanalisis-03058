@@ -92,7 +92,7 @@ sections:
             new_window: true
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Conviértete en un jugador de equipo
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
