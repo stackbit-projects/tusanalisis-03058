@@ -7,10 +7,10 @@ sections:
     title: >-
       Esta es una agencia basada en los mas altos estándares, centrado en el
       analisis certero de las necesidades digitales.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Somos una marca en crecimiento que apunta a los mas altos estándares,
+      yendo junto a ti a una solucion tecnológica que habilite a tu organizacion
+      a crecer. [Contáctanos](/contact/)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
