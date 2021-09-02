@@ -38,7 +38,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Servicios
-    subtitle: What we do
+    subtitle: Que hacemos
     col_number: three
     grid_items:
       - title: Business design
