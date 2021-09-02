@@ -48,7 +48,7 @@ sections:
           - Análisis
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensaje
         default_value: Su mensaje
       - input_type: checkbox
         name: consent
