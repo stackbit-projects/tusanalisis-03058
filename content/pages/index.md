@@ -63,15 +63,12 @@ sections:
           - Typography
       - title: Analisis informático
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Toma de requisitos
+          *   Analisis en conjunto
+          *   Prototipado
+          *   Implementacion de la solución informática
+          *   Mantenimiento de la solución informática
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
