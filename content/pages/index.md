@@ -41,7 +41,7 @@ sections:
     subtitle: Que hacemos
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Diseño de negocios
         image: images/service-1.svg
         content: |-
           - Research and insight
