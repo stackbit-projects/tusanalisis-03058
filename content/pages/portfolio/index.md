@@ -1,6 +1,6 @@
 ---
 title: Servicios
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Mira nuestros servicios realizados
 layout_style: mosaic
 seo:
   title: Portfolio
