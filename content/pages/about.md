@@ -22,7 +22,7 @@ sections:
     grid_items:
       - title: Gustav Purpleson
         image: images/team-1.png
-        subtitle: Creative Director
+        subtitle: Creador Directivo
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
