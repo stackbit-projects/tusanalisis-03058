@@ -15,7 +15,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Servicios
-    subtitle: Explore case studies
+    subtitle: Explora nuestros casos de exito
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
