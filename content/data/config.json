@@ -66,5 +66,6 @@
             }
         ]
     },
-    "domain": "https://tusanalisis-03058.netlify.app"
+    "domain": "https://tusanalisis-03058.netlify.app",
+    "favicon": "/images/logo_size-f2c7c256.jpg"
 }
