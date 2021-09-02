@@ -44,7 +44,7 @@ sections:
         default_value: Please select
         options:
           - Marca
-          - Design
+          - Dise
           - Digital
       - input_type: textarea
         name: message
