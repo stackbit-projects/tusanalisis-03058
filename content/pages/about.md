@@ -95,7 +95,7 @@ sections:
     title: Conviértete en un jugador de equipo
     content: >
       Siempre buscamos grandes personas para unirse a nuestro equipo. Si está
-      interesado en trabajar para Agency, envíe un correo electrónico a
+      interesado en trabajar para TusAnalisis, envíe un correo electrónico a
       [email@example.com](/#) con su CV y el puesto que le interesa.
     image: images/cta-about.svg
     image_alt: Illustration
