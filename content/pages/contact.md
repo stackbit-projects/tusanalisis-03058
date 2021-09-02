@@ -43,7 +43,7 @@ sections:
         label: Que servicios estas buscando?
         default_value: Please select
         options:
-          - Branding
+          - Marca
           - Design
           - Digital
       - input_type: textarea
