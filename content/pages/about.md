@@ -46,7 +46,7 @@ sections:
             new_window: true
       - title: Gordon Norman
         image: images/team-3.png
-        subtitle: Creative Producer
+        subtitle: Creative Director
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
