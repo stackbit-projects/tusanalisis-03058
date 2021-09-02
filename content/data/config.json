@@ -21,11 +21,6 @@
                 "style": "link"
             },
             {
-                "label": "Revista",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "Acerca de",
                 "url": "/about/",
                 "style": "link"
